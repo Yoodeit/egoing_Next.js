@@ -5,7 +5,7 @@ export default function Home() {
     <>
       <h2>Welcome</h2>
       Hello, Nextjs !
-      <img src='/next.svg'></img>
+      <img class="object-none h-24 w-48" src='/yuna.png'></img>
     </>
   )
 }
